@@ -17,7 +17,8 @@ Extrae los datos del TSE de todas las cédulas que sean ingresadas, estos datos 
 
 ## Uso
 La casilla de requerimientos solo será necesario que se complete con éxito una vez.
-El uso de espacios entre comas dará error las cédulas deben ir de la forma XXXXXXXXX,XXXXXXXXX,XXXXXXXXX,...
+
+El uso de espacios entre comas dará error, las cédulas deben ir de la forma XXXXXXXXX,XXXXXXXXX,XXXXXXXXX,...
 
 Dirección de acceso al código: https://colab.research.google.com/github/juanandres-montero/DataAnalysis/blob/main/Obtener_datos_del_TSE_por_cedulas.ipynb 
 
